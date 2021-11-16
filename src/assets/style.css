@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'SOV_MuekMod';
+    src: url(./SOV_MuekMod.ttf)
+  }
+body{
+    font-family: 'SOV_MuekMod', sans-serif;
+}
